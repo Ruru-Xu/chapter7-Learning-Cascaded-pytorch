@@ -134,9 +134,9 @@ run **python test.py**
 
 ![1553345721872](img/1553345721872.png)
 
-MAE：Average error between predicted and true values
+MAE：The sum of error between predicted and true values
 
-MSE：Average variance of predicted and true values
+MSE：The sum of variance between  predicted and true values
 
 ------
 
